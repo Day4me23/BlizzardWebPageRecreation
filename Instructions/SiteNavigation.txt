@@ -1,0 +1,26 @@
+Example.html
+Opening the example.html is my overall Games Home Page where you will see many
+links that would take you to the selected game of choice. The clickable links 
+on this page starts with the Navbar in the GAMES dropdown. The Overwatch 2 selection 
+will take you to the home page of Overwatch 2. Selecting the Overwatch 2 image in the
+carousel will also take you to the homepage of Overwatch 2. Finally, selecting the 
+Overwatch 2 image at the bottom will also take you to the homepage for Overwatch 2.
+
+Overwatch2HomePage.html
+In this page you may navigate back to the GAMES page by selecting the home button on the 
+Navbar. You may also select any blue colored buttons on screen to take you to new 
+content throughout the pages. Watch gameplay trailer will redirect to a youtube link,
+explore button will take you to the next page of Overwatch 2, and the small icon
+in the top right corner will always return you back to this main home page of Overwatch 2.
+
+Overwatch2ExplorePage.html
+In this page you may navigate back to the GAMES page by selecting the home button on the 
+Navbar. You may also select any blue colored buttons on screen to take you to new 
+or existing content throughtout the pages. The white buttons show buttons that link to
+external pages outside of my project scope. These buttons do not redirect.
+
+Overwatch2WhatsNextPage.html
+In this page you may navigate back to the GAMES page by selecting the home button on the 
+Navbar. You may also select any blue colored buttons on screen to take you to new 
+or existing content throughtout the pages. The white buttons show buttons that link to
+external pages outside of my project scope. These buttons do not redirect.

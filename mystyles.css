@@ -1,0 +1,148 @@
+
+@charset "UTF-8";
+
+.preload-transitions * {
+    $null-transition: none !important;
+
+  -webkit-transition: $null-transition;
+  -moz-transition: $null-transition;
+  -ms-transition: $null-transition;
+  -o-transition: $null-transition;
+  transition: $null-transition;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: #163378;
+}
+
+.flex-container > div {
+  background-color: #07173d;
+  width: 150;
+  margin: 30.5px;
+  text-align: center;
+  line-height: 200px;
+  font-size: 30px;
+}
+
+#background {
+	background-color: black;
+
+}
+
+#navbar_top a {
+	background-color: #197ee3; 
+	border: 2px solid #ffffff;
+	border-radius: 25px;
+	color: black; 
+	padding: 5px 18px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block; 
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 27px;
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s; 
+	transition-duration: 0.4s; 
+	cursor: pointer;
+}
+
+#navbar_top a:hover {
+    background-color: #4b97e3;
+    opacity .5;
+    color: white;
+}
+
+#bodytext {
+	width: 1100px;
+	height: 900px;
+	color: #ffffff;
+	margin: 20px;
+	font-family: 'Dela Gothic One', cursive;
+	font-weight: 200;
+	letter-spacing: 0.05em;
+	word-spacing: 0.075em;
+	border: 2px solid #ffffff;
+	border-radius: 50px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right:9px;
+	padding-bottom:10px;
+	overflow: hidden;
+	text-overflow: clip;
+	word-wrap: break-word;
+	word-break: keep-all;
+
+}
+
+#bodyimage {
+	width: 300px;
+	height: 500px;
+	position: relative;
+	left: 1200px;
+	top: -950px;
+}
+
+#container {
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
+#image {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+#image2 {
+position: absolute;
+  top: 10px;
+  left: 1840px;
+}
+#text {
+  position: absolute;
+  font-family: 'Russo One', sans-serif;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  
+}
+#text1 {
+  position: absolute;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  left: 880px;
+  top: 750px;
+}
+#text2 {
+	position: absolute;
+	font-family: 'Russo One', sans-serif;
+	color: white;
+}
+#text3 {
+	font-family: 'Russo One', sans-serif;
+	color: white;
+	font-size: 18px;
+}
+#centering {
+	position: absolute;
+	top: 90%;
+	left: 40%;
+	font-family: 'Russo One', sans-serif;
+	color: white;
+}
+#centering2 {
+	position: absolute;
+	top: 100%;
+	left: 30%;
+	font-family: 'Russo One', sans-serif;
+	color: white;
+
+}
+.content {
+  position: relative;
+  font-family: 'Russo One', sans-serif;
+}
